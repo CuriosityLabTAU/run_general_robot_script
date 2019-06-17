@@ -1,1 +1,1 @@
-ROBOT = 'robotod' # nao
+ROBOT = 'nao' #'robotod' # nao
