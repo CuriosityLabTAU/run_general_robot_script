@@ -44,9 +44,24 @@ class ManagerNode():
         for s in self.script:
             robot_message = {
                 'action': 'run_behavior_and_sound',
-                'parameters': [self.robot_behavior_path + s['behavior'],
-                               self.robot_sound_path + s['sound'] + self.sound_suffix]
+                'parameters': []
             }
+            if 'behavior' in s:
+                robot_message['parameters'].append(self.robot_behavior_path + s['behavior'])
+            else:
+                robot_message['parameters'].append('')
+
+            if 'sound' in s:
+                robot_message['parameters'].append(self.robot_sound_path + s['sound'] + self.sound_suffix)
+            else:
+                robot_message['parameters'].append('')
+
+            if 'lip' in s:
+                robot_message['parameters'].append(self.robot_sound_path + s['lip'] + self.sound_suffix)
+            else:
+                robot_message['parameters'].append(self.robot_sound_path + s['sound'] + self.sound_suffix)
+
+
             self.robot_publisher.publish(json.dumps(robot_message))
 
 
