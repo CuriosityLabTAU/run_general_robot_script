@@ -1,29 +1,30 @@
 import json
 import rospy
 from std_msgs.msg import String
-import threading
-from condition import *
+import sys
 
 
-the_lecture_flow_json_file = 'flow_files/"robotator_study.json"'
+the_json_file = 'lesson_1.json'
 
 
 class ManagerNode():
 
 
-    def __init__(self):
+    def __init__(self, the_json_file='lesson_1.json', ROBOT='nao'):
+        self.the_json_file = the_json_file
+        self.ROBOT = ROBOT
         rospy.init_node('manager_node') #init a listener:
 
-        if ROBOT == 'nao':
+        if self.ROBOT == 'nao':
             self.robot_publisher = rospy.Publisher('to_nao', String, queue_size=10)
             self.robot_sound_path = '/home/nao/naoqi/sounds/HCI/'
             self.sound_suffix = '.wav'
             self.robot_behavior_path = 'animations/Stand/Gestures/'
-        elif ROBOT == 'robotod':
+        elif self.ROBOT == 'robotod':
             self.robot_publisher = rospy.Publisher('to_robotod', String, queue_size=10)
-            self.robot_sound_path = '../../catkin_ws/src/ROS_recorder/sounds/shorashim/'
+            self.robot_sound_path = 'shorashim/sounds/'
             self.sound_suffix = ''
-            self.robot_behavior_path = '../../catkin_ws/src/ROS_recorder/blocks/shorashim/'
+            self.robot_behavior_path = 'shorashim/blocks/'
 
         rospy.Subscriber('to_manager', String, self.manage)
 
@@ -35,7 +36,7 @@ class ManagerNode():
         self.run_script()
 
     def load_script(self):
-        self.script = json.load(open('lesson_1.json'))
+        self.script = json.load(open(the_json_file))
         print('The script:', self.script)
 
     def run_script(self):
@@ -48,4 +49,10 @@ class ManagerNode():
             }
             self.robot_publisher.publish(json.dumps(robot_message))
 
-mn = ManagerNode()
+
+if len(sys.argv) > 1:
+    print('sys.argv', sys.argv)
+    mn = ManagerNode(sys.argv[1], sys.argv[2])
+else:
+    mn = ManagerNode()
+
