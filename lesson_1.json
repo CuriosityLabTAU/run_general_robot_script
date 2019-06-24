@@ -1,11 +1,12 @@
 [
   {
     "behavior": "Explain_3",
-    "sound": "explain_3"
+    "sound": "200",
+    "lip": "explain_3"
   },
   {
     "behavior": "Explain_4",
-    "sound": "explain_4",
+    "sound": "201",
     "lip": "explain_3"
   }
 

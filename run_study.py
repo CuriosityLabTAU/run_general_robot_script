@@ -4,11 +4,11 @@ import time
 import sys
 
 
-the_json_file = 'lesson_1.json'
-ROBOT = 'robotod' # 'nao'
+lesson = 'lesson_1'
+ROBOT = 'robotod' #'nao' #
 
 
-def intro(group_id=0, nao_ip='192.168.0.103'):
+def intro(group_id=0, nao_ip='192.168.0.102'):
     start_working(group_id, nao_ip)
 
     time.sleep(60)
@@ -32,7 +32,7 @@ def start_working(group_id, nao_ip):
         return
 
     def worker10():
-        os.system('python manager_node.py %s %s' % (the_json_file, ROBOT))
+        os.system('python manager_node.py %s %s' % (lesson, ROBOT))
 
     def worker12():
         os.system('rostopic pub -1 /to_manager std_msgs/String "start"')

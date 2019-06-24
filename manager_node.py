@@ -4,27 +4,25 @@ from std_msgs.msg import String
 import sys
 
 
-the_json_file = 'lesson_1.json'
-
 
 class ManagerNode():
 
 
-    def __init__(self, the_json_file='lesson_1.json', ROBOT='nao'):
-        self.the_json_file = the_json_file
+    def __init__(self, lesson='lesson_1', ROBOT='nao'):
+        self.the_json_file = lesson + '.json'
         self.ROBOT = ROBOT
         rospy.init_node('manager_node') #init a listener:
 
         if self.ROBOT == 'nao':
             self.robot_publisher = rospy.Publisher('to_nao', String, queue_size=10)
-            self.robot_sound_path = '/home/nao/naoqi/sounds/HCI/'
+            self.robot_sound_path = '/home/nao/naoqi/sounds/shorashim/%s/' % lesson
             self.sound_suffix = '.wav'
             self.robot_behavior_path = 'animations/Stand/Gestures/'
         elif self.ROBOT == 'robotod':
             self.robot_publisher = rospy.Publisher('to_robotod', String, queue_size=10)
-            self.robot_sound_path = 'shorashim/sounds/'
+            self.robot_sound_path = 'shorashim/robotod/sounds/'
             self.sound_suffix = ''
-            self.robot_behavior_path = 'shorashim/blocks/'
+            self.robot_behavior_path = 'shorashim/robotod/blocks/'
 
         rospy.Subscriber('to_manager', String, self.manage)
 
@@ -36,7 +34,7 @@ class ManagerNode():
         self.run_script()
 
     def load_script(self):
-        self.script = json.load(open(the_json_file))
+        self.script = json.load(open(self.the_json_file))
         print('The script:', self.script)
 
     def run_script(self):
