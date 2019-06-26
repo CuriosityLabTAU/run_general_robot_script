@@ -5,7 +5,7 @@ import sys
 
 
 lesson = 'lesson_1'
-ROBOT =  'nao' #'robotod' #'nao' #
+ROBOT =  'robotod' #'nao' #
 
 
 def intro(group_id=0, nao_ip='192.168.0.102'):

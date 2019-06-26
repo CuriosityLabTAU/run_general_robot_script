@@ -1,23 +1,31 @@
 [
+  {"behavior": "intro1",
+    "sound": "intro1",
+    "lip": "intro1"
+  },
+  {"behavior": "intro3",
+    "sound": "intro3",
+    "lip": "intro3"
+  },
   {
     "behavior": "Explain_3",
     "sound": "1.1",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "2",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "3",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "4",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
