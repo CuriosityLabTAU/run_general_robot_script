@@ -2,6 +2,7 @@ import json
 import rospy
 from std_msgs.msg import String
 import sys
+import time
 
 
 
@@ -61,6 +62,7 @@ class ManagerNode():
 
 
             self.robot_publisher.publish(json.dumps(robot_message))
+            time.sleep(5)
 
 
 if len(sys.argv) > 1:
