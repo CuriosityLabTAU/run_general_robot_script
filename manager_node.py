@@ -62,7 +62,7 @@ class ManagerNode():
 
 
             self.robot_publisher.publish(json.dumps(robot_message))
-            time.sleep(5)
+            time.sleep(7)
 
 
 if len(sys.argv) > 1:
