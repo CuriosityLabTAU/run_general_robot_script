@@ -1,5 +1,15 @@
 [
   {
+    "behavior": "intro1",
+    "sound": "intro1",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "intro3",
+    "lip": "intro3"
+  },
+  {
     "behavior": "Explain_4",
     "sound": "3",
     "lip": "explain_4"
@@ -30,287 +40,300 @@
     "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "9",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_6",
     "sound": "10",
-    "lip": "explain_3"
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "intro6",
+    "sound": "intro6",
+    "lip": "intro6"
+  },
+  {
+    "behavior": "Explain_6",
+    "sound": "11",
+    "lip": "explain_6"
   },
   {
     "behavior": "Explain_3",
-    "sound": "11",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "12",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "13",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "14",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "15",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
     "behavior": "Explain_4",
     "sound": "16",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_5",
     "sound": "17",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "18",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "19",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "20",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
-  {  "behavior": "Explain_3",
+  {  "behavior": "Explain_6",
     "sound": "21-22",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_5",
     "sound": "23",
-    "lip": "explain_3"
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "24",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_4",
-    "sound": "24",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_3",
     "sound": "25",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "26",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_3",
-    "sound": "27",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
+    "sound": "27",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_3",
     "sound": "28",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "29",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_6",
     "sound": "30",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
-  {
-    "behavior": "Explain_3",
-    "sound": "31",
-    "lip": "explain_3"
+  { "behavior": "intro6",
+    "sound": "intro6",
+    "lip": "intro6"
   },
   {
     "behavior": "Explain_4",
-    "sound": "32",
-    "lip": "explain_3"
+    "sound": "31",
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
+    "sound": "32",
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "Explain_7",
     "sound": "33",
-    "lip": "explain_3"
+    "lip": "explain_7"
   },
   {
     "behavior": "Explain_4",
     "sound": "34",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "35",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "36",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_7",
     "sound": "37",
-    "lip": "explain_3"
+    "lip": "explain_7"
   },
   {
     "behavior": "Explain_4",
     "sound": "38",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_5",
     "sound": "39",
-    "lip": "explain_3"
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "40",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_4",
-    "sound": "40",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_3",
     "sound": "41",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "42",
-    "lip": "explain_3"
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "43",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
-    "sound": "43",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "44",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "45",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "46",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "47",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_6",
     "sound": "48",
-    "lip": "explain_3"
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "49",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
-    "sound": "49",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "50",
     "lip": "explain_3"
   },
+  { "behavior": "intro5",
+    "sound": "intro5",
+    "lip": "intro5"
+  },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "51",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
     "behavior": "Explain_4",
     "sound": "52",
-    "lip": "explain_3"
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "53",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
-    "sound": "53",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "54",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "55",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "56",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "57",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "58",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_5",
     "sound": "59",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_4",
     "sound": "60",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
-  {  "behavior": "Explain_3",
+  {  "behavior": "Explain_4",
     "sound": "61",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "62",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_3",
-    "sound": "63",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
+    "sound": "63",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_3",
     "sound": "64",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "65",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_6",
     "sound": "66",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
     "behavior": "Explain_3",
@@ -318,39 +341,39 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "68",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "69",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "70",
-    "lip": "explain_3"
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_2",
+    "sound": "71",
+    "lip": "explain_2"
   },
   {
     "behavior": "Explain_3",
-    "sound": "71",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "72",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_8",
     "sound": "73",
-    "lip": "explain_3"
+    "lip": "explain_8"
   },
   {
     "behavior": "Explain_4",
     "sound": "74",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
@@ -358,7 +381,7 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "76",
     "lip": "explain_3"
   },
@@ -368,29 +391,33 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "78",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "79",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "80",
     "lip": "explain_3"
   },
+  { "behavior": "intro5",
+    "sound": "intro5",
+    "lip": "intro5"
+  },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "81",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "82",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
@@ -398,19 +425,19 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "84",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "85",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "86",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
@@ -418,7 +445,7 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "88",
     "lip": "explain_3"
   },
@@ -430,7 +457,7 @@
   {
     "behavior": "Explain_4",
     "sound": "90",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
@@ -438,9 +465,9 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_2",
     "sound": "92",
-    "lip": "explain_3"
+    "lip": "explain_2"
   },
   {
     "behavior": "Explain_3",
@@ -448,7 +475,7 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "94",
     "lip": "explain_3"
   },
@@ -458,7 +485,7 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "96",
     "lip": "explain_3"
   },
@@ -470,7 +497,7 @@
   {
     "behavior": "Explain_4",
     "sound": "98",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
@@ -478,39 +505,43 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "100",
     "lip": "explain_3"
   },
+  { "behavior": "intro7",
+    "sound": "intro7",
+    "lip": "intro7"
+  },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "101",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_2",
     "sound": "102",
-    "lip": "explain_3"
+    "lip": "explain_2"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "103",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "104",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_8",
     "sound": "105",
-    "lip": "explain_3"
+    "lip": "explain_8"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "106",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
@@ -518,39 +549,39 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "108",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "109",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "110",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
-    "sound": "111",
-    "lip": "explain_3"
-  },
-  {
     "behavior": "Explain_4",
-    "sound": "112",
-    "lip": "explain_3"
+    "sound": "111",
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_2",
+    "sound": "112",
+    "lip": "explain_2"
+  },
+  {
+    "behavior": "Explain_5",
     "sound": "113",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_4",
     "sound": "114",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
@@ -558,47 +589,51 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_2",
     "sound": "116",
-    "lip": "explain_3"
+    "lip": "explain_2"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "117",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
     "sound": "118",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_5",
     "sound": "119",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_4",
     "sound": "120",
-    "lip": "explain_3"
+    "lip": "explain_4"
+  },
+  { "behavior": "intro25",
+    "sound": "intro25",
+    "lip": "intro25"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_4",
     "sound": "121",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "122",
-    "lip": "explain_3"
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "123",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
-    "sound": "123",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "124",
     "lip": "explain_3"
   },
@@ -608,7 +643,7 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "126",
     "lip": "explain_3"
   },
@@ -618,29 +653,19 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "128",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
-    "sound": "129",
-    "lip": "explain_3"
-  },
-  {
     "behavior": "Explain_4",
-    "sound": "130",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_3",
     "sound": "131",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "132",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
@@ -648,27 +673,31 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_6",
     "sound": "134",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
     "behavior": "Explain_3",
     "sound": "135",
     "lip": "explain_3"
   },
+  { "behavior": "intro5",
+    "sound": "intro5",
+    "lip": "intro5"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "136",
+    "lip": "explain_5"
+  },
   {
     "behavior": "Explain_4",
-    "sound": "136",
-    "lip": "explain_3"
+    "sound": "137",
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_3",
-    "sound": "137",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "138",
     "lip": "explain_3"
   },
@@ -678,19 +707,19 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_6",
     "sound": "140",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_2",
     "sound": "141",
-    "lip": "explain_3"
+    "lip": "explain_2"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "142",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
@@ -700,25 +729,29 @@
   {
     "behavior": "Explain_4",
     "sound": "144",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_3",
-    "sound": "145",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
     "behavior": "Explain_4",
+    "sound": "145",
+    "lip": "explain_4"
+  },
+  { "behavior": "intro6",
+    "sound": "intro6",
+    "lip": "intro6"
+  },
+  {
+    "behavior": "Explain_3",
     "sound": "146",
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "147",
-    "lip": "explain_3"
+    "lip": "explain_6"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_3",
     "sound": "148",
     "lip": "explain_3"
   },
@@ -730,25 +763,25 @@
   {
     "behavior": "Explain_4",
     "sound": "150",
-    "lip": "explain_3"
+    "lip": "explain_4"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_5",
     "sound": "151",
-    "lip": "explain_3"
+    "lip": "explain_5"
   },
   {
-    "behavior": "Explain_4",
+    "behavior": "Explain_5",
     "sound": "152",
-    "lip": "explain_3"
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "153",
+    "lip": "explain_5"
   },
   {
     "behavior": "Explain_3",
-    "sound": "153",
-    "lip": "explain_3"
-  },
-  {
-    "behavior": "Explain_4",
     "sound": "154",
     "lip": "explain_3"
   },
@@ -758,9 +791,14 @@
     "lip": "explain_3"
   },
   {
-    "behavior": "Explain_3",
+    "behavior": "Explain_6",
     "sound": "156",
-    "lip": "explain_3"
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "intro28",
+    "sound": "intro28",
+    "lip": "intro28"
   }
 ]
 
