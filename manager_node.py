@@ -60,7 +60,6 @@ class ManagerNode():
             else:
                 robot_message['parameters'].append(self.robot_sound_path + s['sound'] + self.sound_suffix)
 
-
             self.robot_publisher.publish(json.dumps(robot_message))
             time.sleep(7)
 
