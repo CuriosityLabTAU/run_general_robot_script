@@ -5,10 +5,9 @@ import sys
 
 
 lesson = 'lesson_1'
-ROBOT = 'nao' #'robotod' #'nao' #
+ROBOT = 'robotod' #'nao' #
 
-
-def intro(group_id=0, nao_ip='192.168.0.102'):
+def intro(group_id=0, nao_ip='192.168.0.100'):
     start_working(group_id, nao_ip)
 
     time.sleep(60)
@@ -20,6 +19,7 @@ def start_working(group_id, nao_ip):
         os.system('roscore')
         threading._sleep(1.0)
         return
+
 
     def worker1():
         os.system('python ~/PycharmProjects/twisted_server_ros_2_0/scripts/nao_ros_listener.py ' + nao_ip)
@@ -38,6 +38,7 @@ def start_working(group_id, nao_ip):
         os.system('rostopic pub -1 /to_manager std_msgs/String "start"')
 
     threading.Thread(target=worker0).start()
+    threading._sleep(0.5)
 
     if ROBOT == 'robotod':
         t1 = threading.Thread(target=worker2)
