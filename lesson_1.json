@@ -1,4 +1,9 @@
 [
+   {
+    "behavior": "intro3",
+    "sound": "lesson_1_rhythm1",
+    "lip": "intro1"
+  },
   {
     "behavior": "intro1",
     "sound": "intro1",
