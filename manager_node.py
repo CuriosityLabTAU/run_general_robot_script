@@ -16,11 +16,13 @@ class ManagerNode():
 
         if self.ROBOT == 'nao':
             self.robot_publisher = rospy.Publisher('to_nao', String, queue_size=10)
+            self.robot_state = rospy.Subscriber('/nao_state', String, self.state_callback)
             self.robot_sound_path = '/home/nao/naoqi/sounds/shorashim/%s/' % lesson
             self.sound_suffix = '.wav'
             self.robot_behavior_path = 'animations/Stand/Gestures/'
         elif self.ROBOT == 'robotod':
             self.robot_publisher = rospy.Publisher('to_robotod', String, queue_size=10)
+            self.robot_state = rospy.Subscriber('/robotod_state', String, self.state_callback)
             self.robot_sound_path = 'shorashim/robotod/sounds/'
             self.sound_suffix = ''
             self.robot_behavior_path = 'shorashim/robotod/blocks/'
@@ -38,9 +40,13 @@ class ManagerNode():
         self.script = json.load(open(self.the_json_file))
         print('The script:', self.script)
 
+    def state_callback(self, data):
+        self.running_script = False
+
     def run_script(self):
 
         for s in self.script:
+            self.running_script = True
             robot_message = {
                 'action': 'run_behavior_and_sound',
                 'parameters': []
@@ -61,7 +67,9 @@ class ManagerNode():
                 robot_message['parameters'].append(self.robot_sound_path + s['sound'] + self.sound_suffix)
 
             self.robot_publisher.publish(json.dumps(robot_message))
-            time.sleep(7)
+            while self.running_script:
+                pass
+            # time.sleep(7)
 
 
 if len(sys.argv) > 1:

@@ -7,7 +7,7 @@ import sys
 lesson = 'lesson_1'
 ROBOT = 'nao' #'robotod#
 
-def intro(group_id=0, nao_ip='192.168.0.101'):
+def intro(group_id=0, nao_ip='192.168.0.100'):
     start_working(group_id, nao_ip)
 
     time.sleep(60)
