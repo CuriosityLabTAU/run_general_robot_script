@@ -1,27 +1,12 @@
 [
-  {
-    "behavior": "intro1",
-    "sound": "intro1",
-    "lip": "intro1"
-  },
-  {
-    "behavior": "intro3",
-    "sound": "intro3",
-    "lip": "intro3"
-  },
-   {
+ {
     "behavior": "intro3",
     "sound": "lesson_1_rhythm1",
     "lip": "intro3"
   },
-  {
+ {
     "behavior": "intro3",
     "sound": "lesson_1_rhythm2",
-    "lip": "intro3"
-  },
-  {
-    "behavior": "intro3",
-    "sound": "lesson_1_rhythm3",
     "lip": "intro3"
   },
   {
@@ -134,6 +119,11 @@
     "lip": "explain_4"
   },
   {
+    "behavior": "intro3",
+    "sound": "lesson_1_rhythm3",
+    "lip": "intro3"
+  },
+  {
     "behavior": "Explain_4",
     "sound": "26",
     "lip": "explain_4"
@@ -157,10 +147,6 @@
     "behavior": "Explain_6",
     "sound": "30",
     "lip": "explain_6"
-  },
-  { "behavior": "intro5",
-    "sound": "intro5",
-    "lip": "intro5"
   },
   {
     "behavior": "Explain_4",
@@ -262,7 +248,106 @@
     "sound": "50",
     "lip": "explain_3"
   },
+   {
+    "behavior": "intro3",
+    "sound": "intro3",
+    "lip": "intro3"
+  },
   {
+    "behavior": "Explain_6",
+    "sound": "51",
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "52",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "53",
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "54",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "55",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "56",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "57",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "58",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "59",
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "60",
+    "lip": "explain_4"
+  },
+  {  "behavior": "Explain_4",
+    "sound": "61",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "62",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "63",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "64",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_6",
+    "sound": "65",
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "Explain_6",
+    "sound": "66",
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "67",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "68",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "69",
+    "lip": "explain_4"
+  },
+   {
     "behavior": "intro28",
     "sound": "intro28",
     "lip": "intro28"
