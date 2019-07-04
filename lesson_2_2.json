@@ -1,0 +1,123 @@
+ [
+    {
+    "behavior": "intro3",
+    "sound": "lesson_1_rhythm2",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_2_jumping",
+    "lip": "intro3"
+  },
+   {
+    "behavior": "Explain_3",
+    "sound": "178",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "179",
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "180",
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "181",
+    "lip": "explain_3"
+  },
+   {
+    "behavior": "intro3",
+    "sound": "lesson_2_shake",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "182",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "183",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "184",
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "185",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "186",
+    "lip": "explain_5"
+  },
+   {
+    "behavior": "Explain_4",
+    "sound": "187",
+    "lip": "explain_4"
+  },
+   {
+    "behavior": "intro3",
+    "sound": "lesson_2_smile_itch",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "188",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "189",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "190",
+    "lip": "explain_5"
+  },
+
+  {
+    "behavior": "Explain_6",
+    "sound": "191",
+    "lip": "explain_6"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "192",
+    "lip": "explain_4"
+  },
+     {
+    "behavior": "intro3",
+    "sound": "lesson_2_rhythm2",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "193",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "194",
+    "lip": "explain_3"
+  },
+  {
+    "behavior": "Explain_4",
+    "sound": "196",
+    "lip": "explain_4"
+  },
+  {
+    "behavior": "Explain_3",
+    "sound": "197",
+    "lip": "explain_3"
+  }
+   ]
