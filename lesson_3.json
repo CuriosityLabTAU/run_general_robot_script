@@ -1,0 +1,142 @@
+
+  [
+    {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm1",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_3_rhythm2",
+    "lip": "intro3"
+  },
+    {
+    "behavior": "intro3",
+    "sound": "lesson_3_rhythm3",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm4",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_1",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_3_rhythm3_2",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_3",
+    "lip": "intro1"
+  },
+   {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_4",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "dance1",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "TuduBom40",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "Explain_6",
+    "sound": "dance2",
+    "lip": "explain_6"
+  },
+
+  { "behavior": "Explain_9",
+    "sound": "dance3_9",
+    "lip": "explain_9"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "makarena40",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "Explain_11",
+    "sound": "dance4_11",
+    "lip": "explain_11"
+  },
+  {
+    "behavior": "Explain_5",
+    "sound": "dance5_5",
+    "lip": "explain_5"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "tikitas60",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "Explain_8",
+    "sound": "dance6_8",
+    "lip": "explain_8"
+  },{
+    "behavior": "Explain_9",
+    "sound": "dance7_9",
+    "lip": "explain_9"
+  },
+    {
+    "behavior": "Explain_9",
+    "sound": "dance_8_9",
+    "lip": "explain_9"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_5",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_3_rhythm3_6",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_7",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_8",
+    "lip": "intro1"
+  },
+   {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_9",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_10",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_11",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "Explain_6",
+    "sound": "dance9_6",
+    "lip": "explain_6"
+  } ,
+  {
+    "behavior": "intro1",
+    "sound": "gumigam60",
+    "lip": "intro1"
+  }
+]
