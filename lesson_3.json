@@ -1,0 +1,43 @@
+
+  [
+    {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm1",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_3_rhythm2",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_3_rhythm3_2",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_3",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_7",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_10",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "lesson_3_rhythm3_11",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "Explain_6",
+    "sound": "dance9_6",
+    "lip": "explain_6"
+  }
+]

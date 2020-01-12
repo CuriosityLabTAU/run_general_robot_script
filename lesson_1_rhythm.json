@@ -1,0 +1,22 @@
+
+  [
+  {
+    "behavior": "intro3",
+    "sound": "lesson_1_rhythm1",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_1_rhythm2",
+    "lip": "intro3"
+  },
+  {
+    "behavior": "intro1",
+    "sound": "intro1",
+    "lip": "intro1"
+  },
+  {
+    "behavior": "intro3",
+    "sound": "lesson_1_rhythm3",
+    "lip": "intro3"
+  }]
