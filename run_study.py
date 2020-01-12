@@ -3,8 +3,8 @@ import threading
 import time
 import sys
 
-
-lesson = 'lesson_1'
+the_path = 'roboroots/01_fuzzy'
+lesson = 'roboroots_01_fuzzy'
 ROBOT =  'robotod' #'nao' #
 
 
@@ -32,7 +32,7 @@ def start_working(group_id, nao_ip):
         return
 
     def worker10():
-        os.system('python manager_node.py %s %s' % (lesson, ROBOT))
+        os.system('python roboroots_manager_node.py %s %s %s' % (lesson, ROBOT, the_path))
 
     def worker12():
         os.system('rostopic pub -1 /to_manager std_msgs/String "start"')

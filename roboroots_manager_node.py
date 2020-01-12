@@ -9,22 +9,17 @@ import time
 class ManagerNode():
 
 
-    def __init__(self, lesson='lesson_1', ROBOT='nao', the_path=''):
+    def __init__(self, lesson='lesson_1', ROBOT='patricc', the_path=''):
         self.the_json_file = lesson + '.json'
         self.the_path = the_path
         self.ROBOT = ROBOT
         rospy.init_node('manager_node') #init a listener:
 
-        if self.ROBOT == 'nao':
-            self.robot_publisher = rospy.Publisher('to_nao', String, queue_size=10)
-            self.robot_sound_path = '/home/nao/naoqi/sounds/shorashim/%s/' % lesson
-            self.sound_suffix = '.wav'
-            self.robot_behavior_path = 'animations/Stand/Gestures/'
-        elif self.ROBOT == 'robotod':
-            self.robot_publisher = rospy.Publisher('to_robotod', String, queue_size=10)
-            self.robot_sound_path = '%s/robotod/sounds/' % self.the_path
-            self.sound_suffix = ''
-            self.robot_behavior_path = '%s/robotod/blocks/' % self.the_path
+        self.ROBOT == 'patricc'
+        self.robot_publisher = rospy.Publisher('to_robotod', String, queue_size=10)
+        self.robot_sound_path = '%s/sounds/' % self.the_path
+        self.sound_suffix = ''
+        self.robot_behavior_path = '%s/blocks/' % self.the_path
 
         rospy.Subscriber('to_manager', String, self.manage)
 
