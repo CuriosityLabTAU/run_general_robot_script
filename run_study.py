@@ -3,8 +3,8 @@ import threading
 import time
 import sys
 
-the_path = 'roboroots/01_fuzzy'
-lesson = 'roboroots_01_fuzzy'
+the_path = 'neo' #'roboroots/01_fuzzy'
+lesson = 'neo_script_02' #'roboroots_01_fuzzy'
 ROBOT =  'robotod' #'nao' #
 
 
