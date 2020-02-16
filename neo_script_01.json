@@ -1,113 +1,47 @@
 [
   {
-    "behavior": "Fuzzy 01",
-    "sound": "Fuzzy 01",
-    "lip": "explain_4"
+    "behavior": "Neo 01 01",
+    "sound": "Neo 01 01"
   },
   {
-    "behavior": "Fuzzy 02",
-    "sound": "Fuzzy 02",
-    "lip": "explain_4"
+    "behavior": "Neo 01 02",
+    "sound": "Neo 01 02"
   },
   {
-    "behavior": "Fuzzy 03",
-    "sound": "Fuzzy 03",
-    "lip": "explain_4"
+    "behavior": "Neo 01 up",
+    "sound": "Neo 01 up"
   },
   {
-    "behavior": "Fuzzy 04",
-    "sound": "Fuzzy 04",
-    "lip": "explain_4"
+    "behavior": "Neo 01 very good",
+    "sound": "Neo 01 very good"
   },
   {
-    "behavior": "Fuzzy 05",
-    "sound": "Fuzzy 05",
-    "lip": "explain_4"
+    "behavior": "Neo 01 down",
+    "sound": "Neo 01 down"
   },
   {
-    "behavior": "Fuzzy 06",
-    "sound": "Fuzzy 06",
-    "lip": "explain_4"
+    "behavior": "Neo 01 almost",
+    "sound": "Neo 01 almost"
   },
   {
-    "behavior": "Fuzzy 07",
-    "sound": "Fuzzy 07",
-    "lip": "explain_4"
+    "behavior": "Neo 01 down",
+    "sound": "Neo 01 down"
   },
   {
-    "behavior": "Fuzzy 08",
-    "sound": "Fuzzy 08",
-    "lip": "explain_4"
+    "behavior": "Neo 01 very good david",
+    "sound": "Neo 01 very good david"
   },
   {
-    "behavior": "Fuzzy 09",
-    "sound": "Fuzzy 09",
-    "lip": "explain_4"
+    "behavior": "Neo 01 now",
+    "sound": "Neo 01 now"
   },
   {
-    "behavior": "Fuzzy 10",
-    "sound": "Fuzzy 10",
-    "lip": "explain_4"
+    "behavior": "Neo 01 up",
+    "sound": "Neo 01 up"
   },
   {
-    "behavior": "Fuzzy 11",
-    "sound": "Fuzzy 11",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 12",
-    "sound": "Fuzzy 12",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 13",
-    "sound": "Fuzzy 13",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 14",
-    "sound": "Fuzzy 14",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 15",
-    "sound": "Fuzzy 15",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 16",
-    "sound": "Fuzzy 16",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 17",
-    "sound": "Fuzzy 17",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 18",
-    "sound": "Fuzzy 18",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 19",
-    "sound": "Fuzzy 19",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 20",
-    "sound": "Fuzzy 20",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 21",
-    "sound": "Fuzzy 21",
-    "lip": "explain_4"
-  },
-  {
-    "behavior": "Fuzzy 22",
-    "sound": "Fuzzy 22",
-    "lip": "explain_4"
+    "behavior": "Neo 01 very good kids",
+    "sound": "Neo 01 very good kids"
   }
 ]
 

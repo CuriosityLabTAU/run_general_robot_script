@@ -1,18 +1,15 @@
 [
   {
     "behavior": "Neo 02 01",
-    "sound": "Neo 02 01",
-    "lip": "explain_4"
+    "sound": "Neo 02 01"
   },
     {
     "behavior": "Neo 02 02",
-    "sound": "Neo 02 02",
-    "lip": "explain_4"
+    "sound": "Neo 02 02"
   },
     {
     "behavior": "Neo 02 03",
-    "sound": "Neo 02 03",
-    "lip": "explain_4"
+    "sound": "Neo 02 03"
   }
 ]
 

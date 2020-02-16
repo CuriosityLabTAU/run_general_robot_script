@@ -4,7 +4,7 @@ import time
 import sys
 
 the_path = 'neo' #'roboroots/01_fuzzy'
-lesson = 'neo_script_02' #'roboroots_01_fuzzy'
+lesson = 'neo_script_06' #'roboroots_01_fuzzy'
 ROBOT =  'robotod' #'nao' #
 
 
